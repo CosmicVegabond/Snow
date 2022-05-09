@@ -2,7 +2,7 @@
 
 This is a Top-Down shooter, Team-Based game, my first game actually.
 
-Made for the <a href =https://itch.io/jam/linux-game-jam-2022>"Linux Game Jam 2022"</a>, with Raylib and C, the art was done in Aseprite.
+Made for the <a href =https://itch.io/jam/linux-game-jam-2022>"Linux Game Jam 2022"</a>, with <a href = https://www.raylib.com/index.html>Raylib</a> and C, the art was done in Aseprite.
 
 Open source GPLv3. I got rid of most of the crucial bugs, but the code is very spaghetti at this point. 
 
