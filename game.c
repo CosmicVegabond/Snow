@@ -25,7 +25,7 @@ static BotEnemies enemies[MAX_ENEMIES];
 static BotAllies allies[MAX_ALLIES];
 static Rectangle frameTile;
 static Camera2D camera;
-static bool state = false;
+static bool state = true;
 static HatColor hatColor = Red;
 static int dir;
 static bool gameOver = false;
